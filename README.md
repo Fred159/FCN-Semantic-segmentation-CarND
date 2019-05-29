@@ -1,4 +1,20 @@
-# Semantic Segmentation
+# Semantic Segmentation Project
+### Introduction
+All the layer configuration is in the main.py
+
+### Data 
+KITTI data used.
+
+### Parameters
+epoch : 100
+learning rate : 0.0001
+batch size = 32
+dropout : 0.75
+
+### Results
+![result1](https://github.com/Fred159/FCN-Semantic-segmentation-CarND/blob/master/results/result1.png)
+
+# Udacity Semantic Segmentation introduction
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
