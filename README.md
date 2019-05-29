@@ -13,6 +13,17 @@ dropout : 0.75
 
 ### Results
 ![result1](https://github.com/Fred159/FCN-Semantic-segmentation-CarND/blob/master/results/result1.png)
+![result2](https://github.com/Fred159/FCN-Semantic-segmentation-CarND/blob/master/results/result2.png)
+![result3](https://github.com/Fred159/FCN-Semantic-segmentation-CarND/blob/master/results/result3.png)
+![result4](https://github.com/Fred159/FCN-Semantic-segmentation-CarND/blob/master/results/result4.png)
+![result5](https://github.com/Fred159/FCN-Semantic-segmentation-CarND/blob/master/results/result5.png)
+![result6](https://github.com/Fred159/FCN-Semantic-segmentation-CarND/blob/master/results/result6.png)
+
+### Summary
+Pixel level anotation is powerful. But the performance still depends on the encoder part.
+
+
+
 
 # Udacity Semantic Segmentation introduction
 ### Introduction
